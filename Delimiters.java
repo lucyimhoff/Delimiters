@@ -32,6 +32,3 @@ public boolean isBalanced(ArrayList<String> delimiters){
 
     }
 }
-
-
-}
